@@ -106,7 +106,20 @@ Here’s the fixed snippet for that part:
    * Ask questions or answer automatically generated challenge questions
    * Receive instant answers, evaluations, and justifications
 
-````
+
+
+## 🙋‍♀️ Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out:
+
+**Anushika Chauhan**  
+📧 Email: [anuchauhan1569@gmail.com](mailto:anuchauhan1569@gmail.com)  
+🔗 GitHub: [github.com/Anushika-Chauhan](https://github.com/Anushika-Chauhan)  
+🌐 LinkedIn: [linkedin.com/in/anushika-chauhan](https://www.linkedin.com/in/anushika-chauhan-0b8365284)
+
+Looking forward to hearing from you! 😊
+
+
 
 
 
