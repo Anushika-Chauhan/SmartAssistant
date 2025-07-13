@@ -38,7 +38,7 @@ This project was developed as part of an AI internship assignment to demonstrate
 
 ## 🔁 Workflow
 
-![Workflow](assests/workflow.png)
+![Workflow](assests/IMG-20250714-WA0017.jpg)
 
 ---
 
