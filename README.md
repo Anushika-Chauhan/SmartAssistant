@@ -62,7 +62,12 @@ This project was developed as part of an AI internship assignment to demonstrate
 - HuggingFace Transformers & SentenceTransformers for NLP tasks  
 
 ---
+Your README looks good! Just one small fix needed:
+In the **How to Run Locally** section, you have a mismatched code block backtick after the clone command.
 
+Here’s the fixed snippet for that part:
+
+````markdown
 ## 📂 How to Run Locally
 
 1. **Clone the repository**
@@ -101,46 +106,7 @@ This project was developed as part of an AI internship assignment to demonstrate
    * Ask questions or answer automatically generated challenge questions
    * Receive instant answers, evaluations, and justifications
 
----
+````
 
-## 🧩 Project Structure
 
-```
-SmartAssistant/
-├── app.py               # Main Streamlit app
-├── utils.py             # Helper functions for text extraction, summarization, QA, evaluation
-├── requirements.txt     # Python package dependencies
-├── assests/             # Images for UI and documentation
-├── sample_docs/         # Example PDF/TXT files
-├── README.md            # Project documentation (this file)
-```
 
----
-
-## 🤝 Contributions
-
-Contributions are welcome! Feel free to fork the repo, submit issues, or create pull requests.
-
----
-
-## 🙋‍♀️ Contact
-
-**Anushika Chauhan** — [anuchauhan1569@gmail.com](mailto:anuchauhan1569@gmail.com)
-Feel free to reach out for questions or suggestions.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-*Thank you for exploring the Smart Assistant for Research Summarization project! 🚀*
-
-```
-
----
-
-If you want, I can also help you generate a `LICENSE` file or any other documentation!
-```
