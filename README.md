@@ -1,7 +1,5 @@
 
-
-````markdown
- 📚 Smart Assistant for Research Summarization
+# 📚 Smart Assistant for Research Summarization
 
 A GenAI-powered assistant that reads and understands documents (PDF/TXT) to:
 - Answer user questions with contextual accuracy
@@ -10,7 +8,7 @@ A GenAI-powered assistant that reads and understands documents (PDF/TXT) to:
 
 ---
 
- 🧠 Objective
+## 🧠 Objective
 
 This project was developed as part of an AI internship assignment to demonstrate:
 - Deep comprehension of documents
@@ -19,7 +17,7 @@ This project was developed as part of an AI internship assignment to demonstrate
 
 ---
 
- 🚀 Features
+## 🚀 Features
 
 - Upload PDF or TXT files  
 - Auto-generate concise document summaries (≤150 words)  
@@ -68,16 +66,20 @@ This project was developed as part of an AI internship assignment to demonstrate
 ## 📂 How to Run Locally
 
 1. **Clone the repository**
+
    ```bash
-   git clone https://github.com/YOUR_USERNAME/SmartAssistanceAI.git
-   cd SmartAssistanceAI
+   git clone https://github.com/Anushika-Chauhan/SmartAssistant.git
+   cd SmartAssistant
 ````
 
 2. **Create and activate a virtual environment (optional but recommended)**
 
    ```bash
    python -m venv venv
-   source venv/bin/activate   # On Windows use: venv\Scripts\activate
+   # On Windows:
+   venv\Scripts\activate
+   # On macOS/Linux:
+   source venv/bin/activate
    ```
 
 3. **Install dependencies**
@@ -104,7 +106,7 @@ This project was developed as part of an AI internship assignment to demonstrate
 ## 🧩 Project Structure
 
 ```
-SmartAssistanceAI/
+SmartAssistant/
 ├── app.py               # Main Streamlit app
 ├── utils.py             # Helper functions for text extraction, summarization, QA, evaluation
 ├── requirements.txt     # Python package dependencies
@@ -140,6 +142,5 @@ This project is licensed under the MIT License.
 
 ---
 
-You can copy this and replace your current README.md content with it!  
-Anything else you want to add or tweak?
+If you want, I can also help you generate a `LICENSE` file or any other documentation!
 ```
