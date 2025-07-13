@@ -65,7 +65,7 @@ This project was developed as part of an AI internship assignment to demonstrate
 ---
 
 
-````markdown
+
 ## 📂 How to Run Locally
 
 1. **Clone the repository**
@@ -73,7 +73,7 @@ This project was developed as part of an AI internship assignment to demonstrate
    ```bash
    git clone https://github.com/Anushika-Chauhan/SmartAssistant.git
    cd SmartAssistant
-````
+
 
 2. **Create and activate a virtual environment (optional but recommended)**
 
