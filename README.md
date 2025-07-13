@@ -47,8 +47,9 @@ This project was developed as part of an AI internship assignment to demonstrate
 ![Output1](assests/1.png)  
 ![Output2](assests/2.png)  
 ![Output3](assests/3.png)  
+![Output5](assests/5.png)
 ![Output4](assests/4.png)  
-![Output5](assests/5.png)  
+  
 ![Output6](assests/6.png)  
 
 ---
@@ -62,10 +63,7 @@ This project was developed as part of an AI internship assignment to demonstrate
 - HuggingFace Transformers & SentenceTransformers for NLP tasks  
 
 ---
-Your README looks good! Just one small fix needed:
-In the **How to Run Locally** section, you have a mismatched code block backtick after the clone command.
 
-Here’s the fixed snippet for that part:
 
 ````markdown
 ## 📂 How to Run Locally
