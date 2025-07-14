@@ -103,6 +103,11 @@ This project was developed as part of an AI internship assignment to demonstrate
    * View the summary generated automatically
    * Ask questions or answer automatically generated challenge questions
    * Receive instant answers, evaluations, and justifications
+### 📽️ Project Demo
+
+[![Watch the demo](https://raw.githubusercontent.com/Anushika-Chauhan/SmartAssistant/refs/heads/master/assests/demo.webp)](https://drive.google.com/file/d/1wuMUXtMcB_35s3NUSSPWF1mONHjQBMDS/view?usp=sharing)
+
+> 🎬 Click the image to watch a full video demonstration of the Smart Assistant in action.
 
 
 
